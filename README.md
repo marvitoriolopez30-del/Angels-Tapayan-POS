@@ -1,6 +1,13 @@
 # Angels Tapayan POS
 
 > A Point-of-Sale and business management system designed for a water-refilling business.
+>
+> Project Information
+
+Project: Angels Tapayan POS
+Type: Point-of-Sale / Business Management System
+Industry: Water Refilling / Retail Operations
+Primary Functions: Sales, Inventory, Customers, Deliveries, Expenses, Employees, Reporting & Analytics
 
 ## Overview
 
@@ -163,5 +170,17 @@ Business analytics
 Expenses & Employee Records
 Reports & Business Analytics
 
+Developer
+
+Marlon Torio
+
+GitHub:
+https://github.com/marvitoriolopez30-del
+
+LinkedIn:
+https://www.linkedin.com/in/marlon-torio-a0810536b/
+
+Email:
+Marvitoriolopez30@gmail.com
 
 Client and Owner of Angels Tapayan: Roel Lopez
