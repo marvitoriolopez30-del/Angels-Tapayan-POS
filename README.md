@@ -161,5 +161,7 @@ Collections
 Reporting
 Business analytics
 Expenses & Employee Records
-  ↓
 Reports & Business Analytics
+
+
+Client and Owner of Angels Tapayan: Roel Lopez
